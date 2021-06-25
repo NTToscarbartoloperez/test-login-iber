@@ -4,7 +4,7 @@
   "repository": "https://github.com/salesforceidentity/heroku-login-widget-example",
   "website": "https://www.salesforce.com/platform/identity",
   "logo": "https://www.salesforceidentity.info/img/launcher.png",
-  "keywords": ["salesforce", "heroku", "identity", "loginwidget"],
+  "keywords": ["salesforce", "heroku", "identity", "loginwidget", "HTML5"],
   "env":{
 	  "SALESFORCE_COMMUNITY_URL":"https://iberiaidentitylabs.force.com/customers",
 	  "SALESFORCE_CLIENT_ID":"3MVG9SOw8KERNN0.3wkuxfmJzqP.Q7zcGliCQHLQvW6ZPKCzcKdBjq_58RYrm_hgTYDg7aPCp7Aw3j0S5HZ9i",
